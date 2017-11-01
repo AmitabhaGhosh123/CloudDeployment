@@ -1,5 +1,8 @@
 # CloudDeployment
-First of all you have to connect to the cloud server using username : ubuntu@ec2-54-227-176-152.compute-1.amazonaws.com.
-Once logged into server, navigate to testing folder and run command node server.js
-Then open another terminal and go to path /etc/nginx/sites-enabled and stat the nginx server.
-Once the server is started , hit ec2-54-227-176-152.compute-1.amazonaws.com on the browser and the index.html will show up.
+Go to browser and hit URL guwithideas.ml .
+
+When you hit the URL , you will be redirected to the cloud server http://ec2-54-227-176-152.compute-1.amazonaws.com/.
+
+This will open up the chat application window and you can start using it.
+
+
